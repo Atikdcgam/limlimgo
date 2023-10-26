@@ -1,0 +1,1125 @@
+fileFormatVersion: 2
+guid: c218eaa59f88c7648a2211eb74d397f2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chest transparent_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13505
+        width: 705
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3f2584c581b5245846047c55dd3cbb
+      internalID: 703048051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest transparent_1
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 13505
+        width: 705
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d97d57b3fbdc7c4e94bd95c1eef12a2
+      internalID: -546718800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest transparent_2
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 13505
+        width: 705
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5c78d4e269a0b489d97e30e54cd9ed
+      internalID: -1508703888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest transparent_3
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 13505
+        width: 705
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f95c7cc247351408711d9ae41fdf21
+      internalID: -1690446667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest transparent_4
+      rect:
+        serializedVersion: 2
+        x: 3231
+        y: 13505
+        width: 705
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d80916dbdf97344b9f53ae2b4043d9
+      internalID: -1776962848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest transparent_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13023
+        width: 705
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb9ca3dd876ba64185e1c697ed40046
+      internalID: 600171360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest transparent_6
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 13023
+        width: 705
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eec56c22f95c92408a269b31c147d24
+      internalID: -136302210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest transparent_7
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 13023
+        width: 705
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18191f4561abf24bbb71a8131ac197c
+      internalID: 1649302694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest transparent_8
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 13023
+        width: 705
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59578fd09552354484e0249159a7f3d
+      internalID: 1500724409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest transparent_9
+      rect:
+        serializedVersion: 2
+        x: 3224
+        y: 13027
+        width: 705
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b7d047b1a55f9459016c875287b037
+      internalID: 229924603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest transparent_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12534
+        width: 705
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b62812d9e7d8464d8ba2dedc9c4939b
+      internalID: -38060329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest transparent_11
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 12530
+        width: 705
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6616df3d31bdb4789421a82c75eb0a
+      internalID: -472113854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest transparent_12
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 12534
+        width: 705
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d9ca6d6a7fa1345a914f20ff95dbb4
+      internalID: -48462310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest transparent_13
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 12530
+        width: 705
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df991b6f1e269954a9a3e057d5de1bd3
+      internalID: -2049674361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest transparent_14
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 12534
+        width: 705
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ba441a1e470b3488e6858122470634
+      internalID: 184318593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest transparent_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12067
+        width: 705
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd470f024393c341bb26e3fe13acee2
+      internalID: 139069203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest transparent_16
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 12070
+        width: 705
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db064e6d2e05beb44a1f78859d93192f
+      internalID: -1941581178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest transparent_17
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 12071
+        width: 705
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5876b10fa6ae9404f95c5f0b05aaff58
+      internalID: -1665971168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest transparent_18
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 12074
+        width: 705
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fe8e92b67ddc24481e36da4a7a03ba
+      internalID: -1215249986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest transparent_19
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 12071
+        width: 705
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c1180c566e2fb48900293954538bda
+      internalID: -1939242913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest transparent_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11714
+        width: 705
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af705efb2c46d8b4dbe5b7be8339a9d5
+      internalID: -920456687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest transparent_21
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 11708
+        width: 705
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e3dbb3bf9295540850cbebff2c71fa
+      internalID: 472765213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest transparent_22
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 11711
+        width: 705
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431d6df9c2ccea74b8e156ca670f530b
+      internalID: -405014799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest transparent_23
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 11714
+        width: 705
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7631cdb957355224eba451f83a26cb38
+      internalID: 1281284747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest transparent_24
+      rect:
+        serializedVersion: 2
+        x: 3219
+        y: 11723
+        width: 705
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40b25694ba85fc4c91a3030d99d3007
+      internalID: 1791592694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest transparent_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11242
+        width: 705
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1ab2e478e112f41897a834da2db998
+      internalID: -1606991460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest transparent_26
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 11236
+        width: 705
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae93764f59434534d96262639377c03a
+      internalID: 893863975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest transparent_27
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 11236
+        width: 705
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4212bde2855d5243b7dfffbd31322b4
+      internalID: 2123180758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest transparent_28
+      rect:
+        serializedVersion: 2
+        x: 2413
+        y: 11239
+        width: 705
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342d96a46e5d38b4b95cb53457effe93
+      internalID: -1741067157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest transparent_29
+      rect:
+        serializedVersion: 2
+        x: 3218
+        y: 11252
+        width: 705
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfbb0b7abe072b4e8dee6fd037c8013
+      internalID: -567106935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest transparent_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10783
+        width: 705
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e542a06225e40624cbca000d8a6ac31c
+      internalID: -1810593680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest transparent_31
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 10774
+        width: 705
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ac6f1caa7b9d24097e74fa3e3fb4de
+      internalID: -1075305718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest transparent_32
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 10780
+        width: 705
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d960a46a182e14e99b07d4fb923801
+      internalID: -1221497249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest transparent_33
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 10783
+        width: 705
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94aaafe146c8f9547991026900a79e3c
+      internalID: -1429242238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest transparent_34
+      rect:
+        serializedVersion: 2
+        x: 3215
+        y: 10796
+        width: 705
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4263290a9b4e774aa05bd82b7a7e9e3
+      internalID: 856672674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest transparent_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10348
+        width: 705
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6b42b5eb71fbc45b7ba85d15015cb5
+      internalID: 1685695513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest transparent_36
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 10348
+        width: 705
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62682b6bbd3010a4db4776f5f4fe2de9
+      internalID: -1889630893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest transparent_37
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 10345
+        width: 705
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea172e3060240d64a8dff47b17c2de93
+      internalID: 1633304355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest transparent_38
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 10348
+        width: 705
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9485b14cfe93d494790b82f2b7b78c9f
+      internalID: 1746961210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest transparent_39
+      rect:
+        serializedVersion: 2
+        x: 3215
+        y: 10357
+        width: 705
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0b687c169a65f44b4e8a559799b813
+      internalID: 1915675788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest transparent_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9911
+        width: 705
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472d0317b8f7a414285d18875fa6691e
+      internalID: -637470120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest transparent_41
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 9914
+        width: 705
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1a450f4ba4f1a459dccb28e63742ee
+      internalID: -1338858270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest transparent_42
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 9905
+        width: 705
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b13cca6a14f2d419946ea360557068
+      internalID: -1309729524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest transparent_43
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 9911
+        width: 705
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c766e65aa42a34d86ce097a8b9dedc
+      internalID: -1295878470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest transparent_44
+      rect:
+        serializedVersion: 2
+        x: 3215
+        y: 9917
+        width: 705
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a1ffea3cfa1ed488f297f834c4c303
+      internalID: 1030684913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2d7d8fb460cf7014c964167c15d0b19d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Chest transparent_26: 893863975
+      Chest transparent_15: 139069203
+      Chest transparent_7: 1649302694
+      Chest transparent_31: -1075305718
+      Chest transparent_0: 703048051
+      Chest transparent_21: 472765213
+      Chest transparent_13: -2049674361
+      Chest transparent_34: 856672674
+      Chest transparent_35: 1685695513
+      Chest transparent_42: -1309729524
+      Chest transparent_19: -1939242913
+      Chest transparent_12: -48462310
+      Chest transparent_4: -1776962848
+      Chest transparent_23: 1281284747
+      Chest transparent_27: 2123180758
+      Chest transparent_40: -637470120
+      Chest transparent_29: -567106935
+      Chest transparent_33: -1429242238
+      Chest transparent_36: -1889630893
+      Chest transparent_6: -136302210
+      Chest transparent_2: -1508703888
+      Chest transparent_22: -405014799
+      Chest transparent_41: -1338858270
+      Chest transparent_5: 600171360
+      Chest transparent_1: -546718800
+      Chest transparent_44: 1030684913
+      Chest transparent_28: -1741067157
+      Chest transparent_24: 1791592694
+      Chest transparent_8: 1500724409
+      Chest transparent_14: 184318593
+      Chest transparent_32: -1221497249
+      Chest transparent_20: -920456687
+      Chest transparent_38: 1746961210
+      Chest transparent_18: -1215249986
+      Chest transparent_11: -472113854
+      Chest transparent_30: -1810593680
+      Chest transparent_9: 229924603
+      Chest transparent_39: 1915675788
+      Chest transparent_10: -38060329
+      Chest transparent_3: -1690446667
+      Chest transparent_43: -1295878470
+      Chest transparent_25: -1606991460
+      Chest transparent_37: 1633304355
+      Chest transparent_17: -1665971168
+      Chest transparent_16: -1941581178
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

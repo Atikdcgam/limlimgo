@@ -1,0 +1,1257 @@
+fileFormatVersion: 2
+guid: 46f2a5bb74c261349800432ed4e627e4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pin transparent_0
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 22042
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbf5063e6ffcd34381ad51ea21cb033
+      internalID: -800450553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_1
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 22046
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52a7a549d4321546b69781a4c81525f
+      internalID: 1300784609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_2
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 22045
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6855acd1936b3e947bc30e338b4dfdc3
+      internalID: 1473315892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_3
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 22045
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35f8e94095b04a42be081b7968f6ec3
+      internalID: 35150785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_4
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 22049
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d0c64731219fb4ea2abce97e97257c
+      internalID: 2025479791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_5
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 21600
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991207524bce92b46b210ff65e28afab
+      internalID: 1954381034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_6
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 21597
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399d65854171a984d94c8c5696b82aca
+      internalID: -12807493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_7
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 21593
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba19d81222b1624b892745c79fee89e
+      internalID: 27840790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_8
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 21592
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03100c90ecc57c244856b3e9757755b0
+      internalID: 1030665197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_9
+      rect:
+        serializedVersion: 2
+        x: 3446
+        y: 21587
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47bc625ea7c038247a43d7753c915bce
+      internalID: 872289646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_10
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 21186
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f091316ae46299c41966054c2825dc9f
+      internalID: 1828286426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_11
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 21149
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2febea6e0f51e164b941a0e61db306c5
+      internalID: 2077126276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_12
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 21148
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7b048a55164bb4297077a53a03844d
+      internalID: -584744750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_13
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 21144
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cfa58d87285d640a47f8a46ad1821b
+      internalID: 261591026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_14
+      rect:
+        serializedVersion: 2
+        x: 3446
+        y: 21142
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bdd91991be28d439b66dc2b820317b
+      internalID: -2074346320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_15
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 20705
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a994d7e4ce4934cb7d9aff943f42c2
+      internalID: -175731544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_16
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 20693
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37394b1e1e81c1b49b3b5f4f47299938
+      internalID: 1529558831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_17
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 20695
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c57add7cbeea54f9e8f11ac11fcedb
+      internalID: 978687524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_18
+      rect:
+        serializedVersion: 2
+        x: 2651
+        y: 20699
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f60131a44480d042a9d29aa58f1f8d5
+      internalID: 756818581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_19
+      rect:
+        serializedVersion: 2
+        x: 3449
+        y: 20700
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677c07066025c974abbb7bbe0fed04fd
+      internalID: 1411317322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_20
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 20291
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0e6cf0f21ee044baa4ffc15973b509
+      internalID: -41518093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_21
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 20287
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9941f3f65ff654c83381238719d962
+      internalID: -1165833745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_22
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 20292
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a22a3f44a82d4e4090856f4530692d1
+      internalID: 1620916562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_23
+      rect:
+        serializedVersion: 2
+        x: 2651
+        y: 20282
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a05bf5a6af7bb842a841a3e95f4a1d0
+      internalID: -769168038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_24
+      rect:
+        serializedVersion: 2
+        x: 3449
+        y: 20283
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e725132a210134a8b32efe41259efc
+      internalID: -377020856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_25
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 19804
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3d62208cb835749878c3ee031e7038
+      internalID: 1308048545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_26
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 19803
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34bc2335fcbb94d4086e154496d83f98
+      internalID: 168743553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_27
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 19802
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ffcdff8151e8142a20f1892e8a2974
+      internalID: -499651576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_28
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 19806
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c280d0a0a25346a45b8b9d5454b014ac
+      internalID: -279914646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_29
+      rect:
+        serializedVersion: 2
+        x: 3449
+        y: 19804
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ffe71e5d65cf64491544b59deb618f
+      internalID: 798504091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_30
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 19362
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f1e5e8bfb7f4f43bb75c21d878bc7a
+      internalID: 39448311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_31
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 19361
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe016ecb831d924fa6b73a078d5a812
+      internalID: -1683169274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_32
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 19365
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d720e4fc07330b4cbada8c5be8b4e0e
+      internalID: -1802859984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_33
+      rect:
+        serializedVersion: 2
+        x: 2651
+        y: 19359
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5e02237da52674b9ae0865704f0414
+      internalID: 1901064624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_34
+      rect:
+        serializedVersion: 2
+        x: 3446
+        y: 19356
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4f4111a7b57bf40813cf23640375a7
+      internalID: 623661733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_35
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 18883
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8236026e302bf8844a1bc3bd23ff020c
+      internalID: 514338077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_36
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 18885
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613b202cdef323c408e51d4b51d5ae14
+      internalID: 820962302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_37
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 18884
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac660e795115d68479b6a17e905acf32
+      internalID: 308348485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_38
+      rect:
+        serializedVersion: 2
+        x: 2657
+        y: 18883
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ed581c693f1e84f95fd6c09808fed3
+      internalID: -1788302214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_39
+      rect:
+        serializedVersion: 2
+        x: 3471
+        y: 18880
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151fd4852d0fb694ab053ce736cb43a9
+      internalID: -2025789434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_40
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 18460
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5085eb39d05ef44a3461b4b73bdf4c
+      internalID: -1523614513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_41
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 18446
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bd9f9cebf6b634db049595e806bef5
+      internalID: -507420384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_42
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 18442
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae5f529bdc83c442adc27c6efe067d2
+      internalID: -1007343540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_43
+      rect:
+        serializedVersion: 2
+        x: 2651
+        y: 18438
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6edf7c542d32c43b9e2a3b080df627
+      internalID: -1678907620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_44
+      rect:
+        serializedVersion: 2
+        x: 3454
+        y: 18446
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7ed77e4c406d049995857d6e4e0f39
+      internalID: 1340507263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_45
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 18009
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ee45feed8533c4aa10a08c0a786012
+      internalID: -1373896027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_46
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 18007
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5bd10e540cbc84bb5b59aa8076ce79
+      internalID: 490867870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_47
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 18000
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35864b60911a7fa4e90058fa2ebd5643
+      internalID: 1065562698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_48
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 18013
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b50c4a284465484db3e12960cdfb64c
+      internalID: -1922262021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_49
+      rect:
+        serializedVersion: 2
+        x: 3443
+        y: 18009
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869b9931be9c30b438e9e350ce18c17a
+      internalID: 1138349976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pin transparent_50
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 22048
+        width: 315
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f250d0382ce026f45a550d002d443a4e
+      internalID: -724257478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 22074e4fe0ffef045a5dccf7aaac8c7e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pin transparent_32: 798504091
+      Pin transparent_35: -1802859984
+      Pin transparent_33: 39448311
+      Pin transparent_11: 1030665197
+      Pin transparent_16: 261591026
+      Pin transparent_14: 2077126276
+      Pin transparent_18: -175731544
+      Pin transparent_23: -41518093
+      Pin transparent_40: 308348485
+      Pin transparent_28: 1308048545
+      Pin transparent_9: -12807493
+      Pin transparent_49: 490867870
+      Pin transparent_10: 27840790
+      Pin transparent_26: -769168038
+      Pin transparent_46: -1678907620
+      Pin transparent_15: -584744750
+      Pin transparent_21: 756818581
+      Pin transparent_43: -1523614513
+      Pin transparent_8: 1954381034
+      Pin transparent_17: -2074346320
+      Pin transparent_0: -994509453
+      Pin transparent_24: -1165833745
+      Pin transparent_20: 978687524
+      Pin transparent_48: -1373896027
+      Pin transparent_1: -704102513
+      Pin transparent_3: -800450553
+      Pin transparent_2: 148383274
+      Pin transparent_25: 1620916562
+      Pin transparent_30: -499651576
+      Pin transparent_22: 1411317322
+      Pin transparent_41: -1788302214
+      Pin transparent_42: -2025789434
+      Pin transparent_27: -377020856
+      Pin transparent_44: -507420384
+      Pin transparent_12: 872289646
+      Pin transparent_36: 1901064624
+      Pin transparent_19: 1529558831
+      Pin transparent_6: 35150785
+      Pin transparent_7: 2025479791
+      Pin transparent_39: 820962302
+      Pin transparent_4: 1300784609
+      Pin transparent_38: 514338077
+      Pin transparent_47: 1340507263
+      Pin transparent_5: 1473315892
+      Pin transparent_34: -1683169274
+      Pin transparent_31: -279914646
+      Pin transparent_13: 1828286426
+      Pin transparent_37: 623661733
+      Pin transparent_45: -1007343540
+      Pin transparent_50: 1065562698
+      Pin transparent_29: 168743553
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
